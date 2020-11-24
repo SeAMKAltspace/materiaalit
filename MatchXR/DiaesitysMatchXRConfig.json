@@ -1,0 +1,78 @@
+{
+  "loopMediaList": true,
+  "startMethod": "autostart-beginning",
+  "controlMediaPlayer": "elevated",
+  "configureMediaPlayer": "elevated",
+  "mediaList": [
+    {
+      "name": "Dia1",
+      "imageUrl": "https://raw.githubusercontent.com/Wusakko/ExtendendReality/master/Slideshow20201123/Dia1.JPG",
+      "skipAfter": "10"
+    },
+    {
+      "name": "Dia2",
+      "imageUrl": "https://raw.githubusercontent.com/Wusakko/ExtendendReality/master/Slideshow20201123/Dia2.JPG",
+      "skipAfter": "10"
+    },
+    {
+      "name": "Dia3",
+      "imageUrl": "https://raw.githubusercontent.com/Wusakko/ExtendendReality/master/Slideshow20201123/Dia3.JPG",
+      "skipAfter": "10"
+    },
+    {
+      "name": "Dia4",
+      "imageUrl": "https://raw.githubusercontent.com/Wusakko/ExtendendReality/master/Slideshow20201123/Dia4.JPG",
+      "skipAfter": "10"
+    },
+    {
+      "name": "Dia5",
+      "imageUrl": "https://raw.githubusercontent.com/Wusakko/ExtendendReality/master/Slideshow20201123/Dia5.JPG",
+      "skipAfter": "10"
+    },
+    {
+      "name": "Dia6",
+      "imageUrl": "https://raw.githubusercontent.com/Wusakko/ExtendendReality/master/Slideshow20201123/Dia6.JPG",
+      "skipAfter": "10"
+    },
+    {
+      "name": "Dia7",
+      "imageUrl": "https://raw.githubusercontent.com/Wusakko/ExtendendReality/master/Slideshow20201123/Dia7.JPG",
+      "skipAfter": "10"
+    },
+    {
+      "name": "Dia8",
+      "imageUrl": "https://raw.githubusercontent.com/Wusakko/ExtendendReality/master/Slideshow20201123/Dia8.JPG",
+      "skipAfter": "10"
+    },
+    {
+      "name": "Dia9",
+      "imageUrl": "https://raw.githubusercontent.com/Wusakko/ExtendendReality/master/Slideshow20201123/Dia9.JPG",
+      "skipAfter": "10"
+    },
+    {
+      "name": "Dia10",
+      "imageUrl": "https://raw.githubusercontent.com/Wusakko/ExtendendReality/master/Slideshow20201123/Dia10.JPG",
+      "skipAfter": "10"
+    },
+    {
+      "name": "Dia11",
+      "imageUrl": "https://raw.githubusercontent.com/Wusakko/ExtendendReality/master/Slideshow20201123/Dia11.JPG",
+      "skipAfter": "10"
+    },
+    {
+      "name": "Dia12",
+      "imageUrl": "https://raw.githubusercontent.com/Wusakko/ExtendendReality/master/Slideshow20201123/Dia12.JPG",
+      "skipAfter": "10"
+    },
+    {
+      "name": "Dia13",
+      "imageUrl": "https://raw.githubusercontent.com/Wusakko/ExtendendReality/master/Slideshow20201123/Dia13.JPG",
+      "skipAfter": "10"
+    },
+    {
+      "name": "Dia14",
+      "imageUrl": "https://raw.githubusercontent.com/Wusakko/ExtendendReality/master/Slideshow20201123/Dia14.JPG",
+      "skipAfter": "10"
+    }
+  ]
+}
