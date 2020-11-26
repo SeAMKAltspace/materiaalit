@@ -1,0 +1,18 @@
+{
+  "loopMediaList": true,
+  "startMethod": "autostart-beginning",
+  "controlMediaPlayer": "elevated",
+  "configureMediaPlayer": "elevated",
+  "mediaList": [
+    {
+      "name": "Video",
+      "videoUrl": "https://www.youtube.com/watch?v=xVELXie8VL4&feature=emb_title&ab_channel=SeAMK",
+      "skipAfter": "345",
+      "volume": 0,
+      "startTime": 0,
+      "loop": false,
+      "rolloffStartDistance": "5",
+      "endOfVideoAction": "loop"
+    }
+  ]
+}

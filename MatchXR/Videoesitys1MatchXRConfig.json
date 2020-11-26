@@ -1,0 +1,18 @@
+{
+  "loopMediaList": true,
+  "startMethod": "autostart-beginning",
+  "controlMediaPlayer": "elevated",
+  "configureMediaPlayer": "elevated",
+  "mediaList": [
+    {
+      "name": "Video",
+      "videoUrl": "https://www.youtube.com/watch?v=r4DS0-7_W-4",
+      "skipAfter": "238",
+      "volume": "0.5",
+      "startTime": 0,
+      "loop": false,
+      "rolloffStartDistance": "5",
+      "endOfVideoAction": "loop"
+    }
+  ]
+}

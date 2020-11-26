@@ -1,0 +1,18 @@
+{
+  "loopMediaList": true,
+  "startMethod": "autostart-beginning",
+  "controlMediaPlayer": "elevated",
+  "configureMediaPlayer": "elevated",
+  "mediaList": [
+    {
+      "name": "Video",
+      "videoUrl": "https://www.youtube.com/watch?v=LKYvxIenm1k&ab_channel=kapelajii",
+      "skipAfter": "165",
+      "volume": 0,
+      "startTime": 0,
+      "loop": false,
+      "rolloffStartDistance": "5",
+      "endOfVideoAction": "loop"
+    }
+  ]
+}

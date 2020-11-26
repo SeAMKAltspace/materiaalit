@@ -1,0 +1,18 @@
+{
+  "loopMediaList": true,
+  "startMethod": "autostart-beginning",
+  "controlMediaPlayer": "elevated",
+  "configureMediaPlayer": "elevated",
+  "mediaList": [
+    {
+      "name": "Video",
+      "videoUrl": "https://www.youtube.com/watch?v=yKwv1fVc4s4&ab_channel=SeAMK-Sein%C3%A4jokiUniversityofAppliedSciences",
+      "skipAfter": "150",
+      "volume": 0,
+      "startTime": 0,
+      "loop": false,
+      "rolloffStartDistance": "5",
+      "endOfVideoAction": "loop"
+    }
+  ]
+}
